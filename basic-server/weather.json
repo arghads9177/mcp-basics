@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "Weather": {
+      "command": "/home/argha-ds/miniconda3/bin/uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "/home/argha-ds/datascience/mcp-basics/basic-server/weather_server.py"
+      ]
+    }
+  }
+}
