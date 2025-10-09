@@ -5,3 +5,5 @@ python-dotenv
 langchain-mcp-adapters
 mcp
 langgraph
+
+fastmcp
